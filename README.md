@@ -102,6 +102,10 @@ mvn spring-boot:run
 ### **4. Baixar e instalar o app**
   - Baixe e instale o arquivo SoftMind.apk, após a instalação e execução da api estará tudo pronto para uso.
 ---
+## 📱 Vídeo demonstração
+
+![demo](https://github.com/user-attachments/assets/3c070105-f387-4b4a-9c15-13d6cec56b0d)
+
 
 ## 🎯 Conclusão
 A SoftMind API fornece uma estrutura segura e escalável que integra monitoramento emocional, organização diária e inteligência artificial, oferecendo suporte completo ao aplicativo Android do ecossistema SoftMind.
