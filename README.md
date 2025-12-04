@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+
 # Softmind API
 
 Esta API RESTful foi desenvolvida como back-end do aplicativo de bem-estar SoftMind, responsável por gerenciar dados dos usuários, como registros de humor, check-ins diários e lembretes organizacionais.
