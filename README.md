@@ -1,6 +1,3 @@
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-
-
 # Softmind API
 
 Esta API RESTful foi desenvolvida como back-end do aplicativo de bem-estar SoftMind, responsável por gerenciar dados dos usuários, como registros de humor, check-ins diários e lembretes organizacionais.
@@ -72,7 +69,7 @@ Para o app Android se conectar corretamente:
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **Java 17+**
+- **Java 21**
 - **Spring Boot**
 - **Spring Web** (REST)
 - **Spring Data MongoDB**
@@ -112,3 +109,9 @@ mvn spring-boot:run
 
 ## 🎯 Conclusão
 A SoftMind API fornece uma estrutura segura e escalável que integra monitoramento emocional, organização diária e inteligência artificial, oferecendo suporte completo ao aplicativo Android do ecossistema SoftMind.
+
+---
+ *Projeto acadêmico denominado "Challenge" solicitado pela Faculdade de Informática e Administração Paulista - FIAP*
+
+
+ ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
